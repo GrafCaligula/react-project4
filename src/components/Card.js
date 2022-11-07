@@ -5,7 +5,7 @@ export default function Card() {
   return (
     <div className="card">
       <img
-        src="https://source.unsplash.com/WLxQvbMyfas"
+        src="https://source.unsplash.com/JmuyB_LibRo"
         alt="japan"
         className="card-main-img"
       />
